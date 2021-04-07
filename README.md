@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonzhaocn&show_icons=true&theme=highcontrast&bg_color=30,e96443,904e95)
+
 <!--
 **jonzhaocn/jonzhaocn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
